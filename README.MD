@@ -11,7 +11,7 @@ Requirement already satisfied: numpy>=1.24.2 in c:\users\86135\anaconda3\envs\mi
 Requirement already satisfied: sympy>=1.11.1 in c:\users\86135\anaconda3\envs\micro\lib\site-packages (from -r ./requirements.txt (line 3)) (1.11.1)
 Requirement already satisfied: notebook in c:\users\86135\anaconda3\envs\micro\lib\site-packages (from -r ./requirements.txt (line 4)) (6.5.3)
 ......
-Requirement all already satisfied
+Requirements all already satisfied
 ```
 ## 2.activate jupyter notebook environment to run the code
 ```
